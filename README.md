@@ -59,10 +59,15 @@ SELECT
 FROM Orders
 GROUP BY Item_Type;
 ```
+![Image](SQL.png)
 
 ### Visualization
 
 The accompanying chart demonstrates the substantial performance gap between premium product categories and Party Dress orders.
+
+![Image](Cancellation%20Rate.png)
+
+![Image](Cancellation%20Reason.png)
 
 ---
 
